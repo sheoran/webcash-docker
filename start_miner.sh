@@ -5,7 +5,7 @@
 WALLET_PATH=~/webcash_wallet_data/$(hostname)
 mkdir -p $WALLET_PATH
 
-echo "SourceCode can be reviwed at: https://github.com/sheoran/webcash-docker"
+echo "SourceCode can be reviwed at: https://github.com/sheoran/webcash-docker/start_miner.sh"
 echo "Removing any preivous execution instances to avoid overloading of machine"
 docker rm -f webminer &> /dev/null
 docker rm -f webminer_wallet_poller &> /dev/null
