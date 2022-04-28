@@ -1,8 +1,9 @@
 # webcash-docker
 
 Ready to use docker image packaged with
-    1. https://github.com/kanzure/webcash
-    2. https://github.com/maaku/webminer
+
+1. https://github.com/kanzure/webcash
+2. https://github.com/maaku/webminer
 
 ## Quick start of mining and storing of tokens
 
