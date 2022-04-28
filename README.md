@@ -23,5 +23,6 @@ Ready to use docker image packaged with
 
 
 ## WebCash resources
-1. [Webcash quick-start Guide](https://docs.google.com/document/d/1tbVtxnoCVgvoh29o5_-jeEOoGS64gOIiVNHQOQcxXa4/edit)
-2. [Webcash slides](https://webcash.org/webcash-slides.pdf)
+1. [Get 1k free webcash](https://webcashfaucet.org/)
+2. [Webcash quick-start Guide](https://docs.google.com/document/d/1tbVtxnoCVgvoh29o5_-jeEOoGS64gOIiVNHQOQcxXa4/edit)
+3. [Webcash slides](https://webcash.org/webcash-slides.pdf)
