@@ -1,0 +1,6 @@
+[submodule "webcash"]
+	path = webcash
+	url = https://github.com/kanzure/webcash.git
+[submodule "webminer"]
+	path = webminer
+	url = https://github.com/maaku/webminer.git
