@@ -6,4 +6,4 @@ WALLET_PATH=~/webcash_wallet_data/$(hostname)
 ARGS=$@
 
 echo "SourceCode can be reviwed at: https://github.com/sheoran/webcash-docker/cash.sh"
-docker run --name webcash_cli  --rm -v $WALLET_PATH:/data sheoran/webcash:latest bash -c "webcash $ARGS"
+docker run --name webcash_cli -it --rm -v $WALLET_PATH:/data sheoran/webcash:latest bash -c "webcash $ARGS"
