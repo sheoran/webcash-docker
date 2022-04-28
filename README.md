@@ -5,7 +5,11 @@ Ready to use docker image packaged with
 1. https://github.com/kanzure/webcash
 2. https://github.com/maaku/webminer
 
-## Quick start of mining and storing of tokens
+## Quick start of mining and storing of tokens without git clone
+1. Start miner `curl -s https://raw.githubusercontent.com/sheoran/webcash-docker/master/start_miner.sh | bash -s --`
+2. Wallet operations `curl -s https://raw.githubusercontent.com/sheoran/webcash-docker/master/cash.sh | bash -s --`
+
+## Quick start of mining and storing of tokens once repo is cloned
 
 1. `./start_miner.sh`, It will create folder where wallet data be will be kept `webcash_wallet_data`
 2. Validate images are running, should be similar to screenshot ![](docs/images/demo.png)
