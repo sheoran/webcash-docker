@@ -7,7 +7,7 @@ Ready to use docker image packaged with
 
 ## Quick start of mining and storing of tokens without git clone
 1. Start miner `curl -s https://raw.githubusercontent.com/sheoran/webcash-docker/master/start_miner.sh | bash -s --`
-2. Wallet operations `curl -s https://raw.githubusercontent.com/sheoran/webcash-docker/master/cash.sh | bash -s --`
+2. Wallet operations `curl -s https://raw.githubusercontent.com/sheoran/webcash-docker/master/cash.sh -o /tmp/cash.sh  && bash /tmp/cash.sh --help`
 
 ## Quick start of mining and storing of tokens once repo is cloned
 
